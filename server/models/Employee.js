@@ -6,3 +6,4 @@ const EmployeeSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Employee', EmployeeSchema);
+
